@@ -1,2 +1,3 @@
-# django-api-demo
-An api demo built in django-rest-framework for polling.
+# django-api-demo-polls
+
+An api demo built in django-rest-framework used for polling.
